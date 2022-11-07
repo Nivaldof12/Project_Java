@@ -1,4 +1,4 @@
-*Questão*
+# Questão
 
 Ao ser iniciado, o programa deve exibir um menu com as seguintes opções:
 
